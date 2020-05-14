@@ -1,5 +1,5 @@
 include utils/meta.mk utils/help.mk
-LOCAL_DB_URL = postgres://eoscr:password@localhost:5432/eoscr_local
+LOCAL_DB_URL = postgres://eoscradmin:password@localhost:5432/eoscr_local
 
 clear-local-db: ##@local Remove the local db container, image and volume
 clear-local-db:
