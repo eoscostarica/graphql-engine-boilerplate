@@ -9,7 +9,7 @@ You need to add .env and config.yaml. Please not use for production the provided
 It is tested on macOS
 
 ```bash
-make
+make run
 ```
 
 #### Clearing the database to get a fresh one
