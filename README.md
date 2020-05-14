@@ -1,4 +1,4 @@
-# graphql-engine-boilerplate
+# Hasura boilerplate
 
 #### ENV and CONFIG files
 
