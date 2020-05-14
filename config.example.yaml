@@ -1,0 +1,7 @@
+version: 2
+endpoint: ""
+admin_secret: 35*!`J!uAsw9)w|36SWVia~qs=VIo.
+metadata_directory: metadata
+actions:
+  kind: synchronous
+  handler_webhook_baseurl: http://localhost:3000

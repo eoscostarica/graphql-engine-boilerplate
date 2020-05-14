@@ -1,0 +1,8 @@
+experimental_code/
+notes/
+k8s/
+Dockerfile
+makefile
+**/*.png
+**/*.dot
+azure-pipelines*.yaml
