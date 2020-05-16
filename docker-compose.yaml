@@ -18,7 +18,7 @@ services:
       args:
         hasura_graphql_migrations_dir: /hasura-migrations
         hasura_graphql_metadata_dir: /hasura-metadata
-    image: graphql-engine-boilerplate
+    image: hasura-boilerplate
     ports:
       - "8085:8080"
     env_file:
